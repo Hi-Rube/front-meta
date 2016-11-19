@@ -1,0 +1,29 @@
+{
+  "name": "quark",
+  "version": "0.0.1",
+  "description": "front meta language",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.16.6"
+  },
+  "devDependencies": {
+    "eslint": "^3.10.0",
+    "eslint-config-airbnb": "^13.0.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^2.2.3",
+    "eslint-plugin-react": "^6.6.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hi-Rube/quark.git"
+  },
+  "author": "Rube",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hi-Rube/quark/issues"
+  },
+  "homepage": "https://github.com/Hi-Rube/quark#readme"
+}
